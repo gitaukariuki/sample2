@@ -11,8 +11,8 @@ const DescriptionBox = () => {
         <div className={`descriptionbox-nav-box fade dbp_${theme}`}>Reviews (122)</div>
       </div>
       <div className='descriptionbox-description'>
-        <p className={`dbp_${theme}`}>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat iste enim numquam ipsum deserunt molestiae repellat quis quo dignissimos vitae, hic asperiores adipisci. Saepe animi ea facilis voluptas corrupti! Voluptatem!</p>
-        <p className={`dbp_${theme}`}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora, nam!</p>
+        <p className={`dbp_${theme}`}>Full, detailed textual description of products currently selected by user for inclusion into the shopping cart, hopefully!</p>
+        <p className={`dbp_${theme}`}>Product description space here!</p>
       </div>
     </div>
   )
